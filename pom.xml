@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tecnocampus</groupId>
-    <artifactId>ExamSimulation</artifactId>
+    <artifactId>EXAM_AGE_OF_KINGDOMS_CHATGPT</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ExamSimulation</name>
+    <name>EXAM_AGE_OF_KINGDOMS_CHATGPT</name>
     <description>ExamSimulation</description>
     <url/>
     <licenses>
